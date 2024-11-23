@@ -24,18 +24,12 @@ author:
   avatar           : "profile.png"
   name             : "Xiao Xiong"
   pronouns         : "She/Her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "I am actively seeking PhD opportunities starting Fall 2025!"
   location         : "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "xiaoxiong.xx21@gmail.com" 
 
-  # Education information
-  Education:
-    - BSc in Mathematics
-      institution: Imperial College London
-    - MPhil in Data Science
-      institution: University of Cambridge
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
