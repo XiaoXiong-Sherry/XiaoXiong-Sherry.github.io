@@ -16,8 +16,9 @@ Feel free to explore my website to learn more about my research and academic jou
 ## Research Interests
 
 - Large Language Models (LLMs)
+- Reasoning in Language Models
 - Generative Models
-- Model Interpretability and Explainability
+- Model Interpretability
 - Reinforcement Learning
 - Path-finding Algorithms
 - Multi-agent Systems
