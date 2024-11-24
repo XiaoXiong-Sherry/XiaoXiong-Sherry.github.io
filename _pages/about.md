@@ -13,7 +13,7 @@ My research focuses on advanced topics in artificial intelligence and machine le
 Feel free to explore my website to learn more about my research and academic journey. 
 
 
-# Research Interests
+## Research Interests
 
 - Large Language Models (LLMs)
 - Generative Models
