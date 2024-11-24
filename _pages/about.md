@@ -11,3 +11,17 @@ Welcome to my academic portfolio! My name is Xiao Xiong, and I am passionate abo
 My research focuses on advanced topics in artificial intelligence and machine learning, including generative models and large language models (LLMs), with a particular emphasis on their reasoning capabilities and explainability. I also interest in theorem proving using tools like Lean4, with a focus on AI safety. Additionally, I work on reinforcement learning, path-finding, and multi-agent systems. I am particularly passionate about exploring the intersections between cognitive science and deep learning.
 
 Feel free to explore my website to learn more about my research and academic journey. 
+
+
+# Research Interests
+
+- Large Language Models (LLMs)
+- Generative Models
+- Model Interpretability and Explainability
+- Reinforcement Learning
+- Path-finding Algorithms
+- Multi-agent Systems
+- AI Safety with theorem Prover
+- Bridging Deep Learning and Cognitive Science
+- Medical Imaging 
+- Inverse Problems
